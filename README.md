@@ -1,7 +1,8 @@
-# Tampilan interface pada form login facebook
+## Tampilan interface pada form facebook
 
-## Versi mobile
-![mobile](https://user-images.githubusercontent.com/82139022/190939317-c3ca6ac2-3847-4d51-9632-301a86f38fc4.jpg)
+# Versi mobile
+![mobile](https://user-images.githubusercontent.com/82139022/190961151-06c76571-4fd1-4faf-82b1-1073c2681b33.jpg)
 
-## Versi website
-![web](https://user-images.githubusercontent.com/82139022/190939318-22749e05-12b8-46de-bd0e-565e71db2cd5.jpg)
+# Versi website
+![web](https://user-images.githubusercontent.com/82139022/190961177-bc483e0d-582c-4518-a903-cf2168dcb364.jpg)
+
